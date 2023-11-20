@@ -2,3 +2,4 @@
 
 // Simple Deployment With Netlify
 // Setting Up Git and GitHub
+// Pushing to GitHub
